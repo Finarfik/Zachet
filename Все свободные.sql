@@ -1,0 +1,1 @@
+Select Strana, Klimat,Dlit, ID_otel from Tur 
